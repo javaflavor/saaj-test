@@ -1,0 +1,10 @@
+JBOSS EAP 7.3.BETA RELEASE NOTES
+
+RED HAT JBOSS ENTERPRISE APPLICATION PLATFORM
+7.3.BETA
+For Use with Red Hat JBoss Enterprise Application Platform 7.3.beta
+
+Red Hat Customer Content Services
+Legal Notice
+Abstract
+These release notes contain important information related to Red Hat JBoss Enterprise Application Platform 7.3.beta.
