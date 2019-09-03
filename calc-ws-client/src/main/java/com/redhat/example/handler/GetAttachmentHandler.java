@@ -30,7 +30,7 @@ public class GetAttachmentHandler implements SOAPHandler<SOAPMessageContext> {
 				log.info("### attachment="+attachment);
 				
 				try {
-					context.put(ATTACHMENT, attachment.getContent());
+					context.put(ATTACHMENT, new String(attachment.getRawContentBytes()));
 				} catch (SOAPException e) {
 					throw new RuntimeException("Failed to get attachment content.", e);
 				}

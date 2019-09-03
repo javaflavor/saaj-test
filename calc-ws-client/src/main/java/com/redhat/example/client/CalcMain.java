@@ -2,7 +2,6 @@ package com.redhat.example.client;
 
 import java.net.URL;
 import java.util.List;
-import java.util.logging.Logger;
 
 import javax.xml.ws.BindingProvider;
 import javax.xml.ws.handler.Handler;
